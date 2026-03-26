@@ -1,6 +1,6 @@
 # Short #003 — Turkey vs Romania: WC2026 Playoff Breakdown
 
-**Status:** IN PROGRESS
+**Status:** DONE
 **Series:** Turkey Playoff Series
 **Duration target:** 40 seconds
 **Word count:** 117 words

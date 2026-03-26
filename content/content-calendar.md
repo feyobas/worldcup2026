@@ -10,10 +10,10 @@
 
 | Date | Short # | Title | Series | Status | Upload Time |
 |---|---|---|---|---|---|
-| Thu 26 Mar | #003 | Turkey vs Romania: Playoff Breakdown | Turkey Playoff Series | IN PROGRESS | 18:00 TRT |
+| Thu 26 Mar | #003 | Turkey vs Romania: Playoff Breakdown | Turkey Playoff Series | DONE | 18:00 TRT |
 | Fri 27 Mar | #002 | Neymar: The Last Dance | Standalone | DONE | 18:00 TRT |
 | Sat 28 Mar | #001 | Michael Olise: France's Hidden Weapon | France Full Series | DONE | 18:00 TRT |
-| Sun 29 Mar | #004 | Turkey vs Romania: Post-Match Reaction | Turkey Playoff Series | PLANNED | 18:00 TRT |
+| Sun 29 Mar | #004 | Arda Güler: Real Madrid's Secret Weapon | Turkey Playoff Series | READY | 18:00 TRT |
 | Mon 30 Mar | #005 | Turkey's Squad: Why They Can Win More | Turkey Playoff Series | PLANNED | 18:00 TRT |
 | Tue 31 Mar | #006 | Calhanoglu: Turkey's Engine | Turkey Playoff Series | PLANNED | 18:00 TRT |
 | Wed 01 Apr | #007 | Arda Güler: The Next Big Thing? | Turkey Playoff Series | PLANNED | 18:00 TRT |
